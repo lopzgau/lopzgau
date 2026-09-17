@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hola, soy Gabriela López
 
-<!--
-**lopzgau/lopzgau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Ingeniera Agrícola | 💻 Desarrollo Web
 
-Here are some ideas to get you started:
+Soy Ingeniera Agrícola y actualmente me estoy formando en el área de desarrollo web y programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa combinar mis conocimientos profesionales con la tecnología para desarrollar soluciones prácticas, funcionales y orientadas a resolver problemas.
+
+
+## 💻 Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Node.js
+
+---
+
+## 🚀 Proyectos
+
+### 💰 Control de Gastos Mensuales
+Aplicación web para registrar y organizar gastos mensuales.
+
+### ✅ Task-Flow
+Aplicación web para la gestión y organización de tareas.
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Desarrollo Web
+- JavaScript
+- APIs REST
+- Node.js
+- Git y GitHub
+- Desarrollo de aplicaciones
+
+---
+
+## 🎯 Objetivo
+
+Continuar desarrollando mis habilidades en programación y crear proyectos que integren tecnología con soluciones útiles para diferentes áreas.
+
+---
+
+## 📫 Contacto
+
+📧 **Correo:** lopz.gau@gmail.com
